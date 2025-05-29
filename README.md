@@ -36,6 +36,13 @@ readme 작성법
 
 ### 이미지 넣기
 
+![Image](https://github.com/user-attachments/assets/785d14e6-41cb-4811-83bc-6546c13ed628)
+<img src="https://github.com/user-attachments/assets/785d14e6-41cb-4811-83bc-6546c13ed628"  style="width: 500px"/>
 
+### 링크 걸기
+
+https://github.com/yongHun112/readme-test/edit/main/README.md
+
+- [나의깃허브연결](https://github.com/yongHun112/readme-test/edit/main/README.md);
 
 
